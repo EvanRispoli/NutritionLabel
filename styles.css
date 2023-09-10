@@ -19,6 +19,8 @@ h1 {
 
 p {
   margin: 0px;
+  display: flex;
+  justify-content: space-between;
 }
 .label {
   border: 2px solid black;
