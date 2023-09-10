@@ -79,3 +79,4 @@ Note: the medium(medium) class will be utilized later for the thinner bars of th
 ### ✅ Step 29
 Create a new div below your .large element and give it a class attribute set to calories-info.
 ### ✅ Step 30
+Within your .calories-info element, create a div element. Give that div element a class attribute set to left-container. Within the newly created div element, create a h2 element with the text Amount per serving. Give the h2 element a class attribute set to bold small-text.
