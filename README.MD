@@ -113,8 +113,29 @@ Below your element with the Total Fat text, create a new p element with the text
 ### ✅ Step 45
 This new p element will need to be indented. Give it a class set to indent.
 ### ✅ Step 46
+Create a new .indent selector and give it a margin-left property set to 1em.
 ### ✅ Step 47
+Create a .daily-value p selector to target all of your p elements in the daily-value section. Give this new selector a border-bottom set to 1px solid #888989.
 ### ✅ Step 48
+The bottom borders under your % Daily Value * and Saturated Fat 1g 5% elements do not extend the full width of the label. Add no-divider to the class for these two elements.
 ### ✅ Step 49
+The :not pseudo-selector can be used to select all elements that do not match the given CSS rule.
 ### ✅ Step 50
+Agora você terá que adicionar divisões separadas abaixo dos elementos .no-divider.
+O primeiro elemento .no-divider tem um .divider depois dele. Crie outro .divider após o segundo elemento .no-divider.
+### ✅ Step 51
+Após o último .divider, crie outro elemento p e dê a ele o texto Trans Fat 0g. Torne a palavra Trans em itálico ao encapsular ela em um elemento i. Dê ao elemento p o atributo class definido como indent no-divider. Envolva Trans Fat 0g em um elemento span para o alinhamento.
+### ✅ Step 52
+Crie outro .divider depois do último elemento p.
+### ✅ Step 53
+After your last .divider, create a new p element with the text Cholesterol 0mg 0%. Wrap the text Cholesterol in a span element, and give that span element the class of bold. Wrap the text 0% in another span element, with the class of bold. Finally, nest the Cholesterol span element and the text 0mg in an additional span element for alignment.
+### ✅ Step 54
+Below your last p element, create another p element with the text Sodium 160mg 7%. Wrap the text Sodium in a span element with a class attribute set to bold. Wrap the 7% text in another span element with the class set to bold. Also add an additional span element around Sodium 160mg for aligning it correctly.
+### ✅ Step 55
+Add another p element with the text Total Carbohydrate 37g 13%. Like before, use span elements to make the text Total Carbohydrate and 13% bold. Also add an additional span element to wrap the Total Carbohydrate 37g text in a span element so to have it aligned to the left, and 13% to the right.
+### ✅ Step 56
+### ✅ Step 57
+### ✅ Step 58
+### ✅ Step 59
+### ✅ Step 60
 
