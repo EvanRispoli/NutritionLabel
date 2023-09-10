@@ -96,3 +96,19 @@ Create a .calories-info span selector, set its font-size to 2.4em and font-weigh
 ### ✅ Step 37
 Typography is often more art than science. You may have to tweak things like alignment until it looks correct.
 Give your .calories-info span selector a margin set to -7px -2px. This will shift your 230 text into place.
+### ✅ Step 38
+Below your .calories-info element, add a div with the class attribute set to divider medium.
+### ✅ Step 39
+Create an .medium selector and give it a height property of 5px.
+### ✅ Step 40
+### ✅ Step 41
+### ✅ Step 42
+### ✅ Step 43
+### ✅ Step 44
+### ✅ Step 45
+### ✅ Step 46
+### ✅ Step 47
+### ✅ Step 48
+### ✅ Step 49
+### ✅ Step 50
+
