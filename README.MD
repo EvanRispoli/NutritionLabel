@@ -45,6 +45,8 @@ Fine-tune the placement of your h1 by giving it a top and bottom margin of -4px 
 ### ✅ Step 15
 Create a p selector and remove all margins.
 ### ✅ Step 16
+Lines can help separate and group important content, especially when space is limited.
+Create a div element below your h1 element, and give it a class attribute set to divider.
 ### ✅ Step 17
 ### ✅ Step 18
 ### ✅ Step 19
