@@ -1,6 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
 html {
   font-size: 16px;
 }
+
 body {
   font-family: "Open Sans", sans-serif;
 }
@@ -8,5 +13,5 @@ body {
   border: 2px solid black;
   width: 270px;
   margin: 20px auto;
-  padding: 0 7px ;
+  padding: 0 7px;
 }

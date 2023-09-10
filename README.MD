@@ -39,4 +39,29 @@ Good use of white space can bring focus to the important elements of your page, 
 Give your .label selector a width property set to 270px.
 
 ### ✅ Step 10
-Give your .label selector a margin property set to 20px auto, and a padding property set to 0 7px.
+Give your .label selector a margin property set to 20px auto, and a padding property set to 0 7px.  
+
+### ✅ Step 11  
+If you inspect your .label element with your browser's developer tools, you may notice that it's actually 288 pixels wide instead of 270. This is because, by default, the browser includes the border and padding when determining an element's size.
+
+To solve this, reset the box model by creating a * selector and giving it a box-sizing property of border-box.
+
+### ✅ Step 12
+
+### ✅ Step 13
+
+### ✅ Step 14
+
+### ✅ Step 15
+
+### ✅ Step 16
+
+### ✅ Step 17
+
+### ✅ Step 18
+
+### ✅ Step 19
+
+### ✅ Step 20
+
+### ✅ Step 21
