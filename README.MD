@@ -56,4 +56,6 @@ Give your h1 selector a letter-spacing property set to 0.15px to space them out 
 Nutrition labels have a lot of bold text to draw attention to important information. Rather than targeting each element that needs to be bold, it is more efficient to use a class to apply the bold styling to every element.
 Give your second p element a class attribute set to bold.
 ### ✅ Step 20
+Your new class does not have any styling yet. Create a .bold selector and give it a font-weight property set to 800 to make the text bold.
+Go ahead and remove the font-weight property from your h1 selector as well.
 ### ✅ Step 21
