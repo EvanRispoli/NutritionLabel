@@ -80,3 +80,6 @@ Note: the medium(medium) class will be utilized later for the thinner bars of th
 Create a new div below your .large element and give it a class attribute set to calories-info.
 ### ✅ Step 30
 Within your .calories-info element, create a div element. Give that div element a class attribute set to left-container. Within the newly created div element, create a h2 element with the text Amount per serving. Give the h2 element a class attribute set to bold small-text.
+### ✅ Step 31
+The rem unit stands for root em, and is relative to the font size of the html element.
+Create a .small-text selector and set the font-size to 0.85rem, which would calculate to roughly 13.6px (remember that you set your html to have a font-size of 16px).
