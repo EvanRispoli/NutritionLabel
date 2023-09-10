@@ -53,5 +53,7 @@ Create a selector for your new .divider and set the border-bottom property to 1p
 The letter-spacing property can be used to adjust the space between each character of text in an element.
 Give your h1 selector a letter-spacing property set to 0.15px to space them out a bit more.
 ### ✅ Step 19
+Nutrition labels have a lot of bold text to draw attention to important information. Rather than targeting each element that needs to be bold, it is more efficient to use a class to apply the bold styling to every element.
+Give your second p element a class attribute set to bold.
 ### ✅ Step 20
 ### ✅ Step 21
