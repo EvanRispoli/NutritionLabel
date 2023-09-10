@@ -87,3 +87,5 @@ Create a .small-text selector and set the font-size to 0.85rem, which would calc
 Create a .calories-info h2 selector and remove all margins.
 ### ✅ Step 33
 Below your .small-text element, create a new p element with the text Calories. Also below the .left-container element, create a new span element with the text 230.
+### ✅ Step 34
+Create a new .calories-info selector and give it a display property set to flex. Also give it a justify-content property set to space-between and align-items property set to flex-end.
