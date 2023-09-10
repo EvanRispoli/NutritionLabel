@@ -50,6 +50,8 @@ Create a div element below your h1 element, and give it a class attribute set to
 ### ✅ Step 17
 Create a selector for your new .divider and set the border-bottom property to 1px solid #888989. Also give it a top and bottom margin of 2px. It should not have any left or right margin.
 ### ✅ Step 18
+The letter-spacing property can be used to adjust the space between each character of text in an element.
+Give your h1 selector a letter-spacing property set to 0.15px to space them out a bit more.
 ### ✅ Step 19
 ### ✅ Step 20
 ### ✅ Step 21
