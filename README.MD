@@ -72,6 +72,7 @@ Now update your h1 selector to be header h1 to specifically target your h1 eleme
 ### ✅ Step 26
 Create a new div element below your header element, and give it a class attribute set to divider large.
 ### ✅ Step 27
+Create a new .large selector and give it a height property set to 10px. Also create an .large, .medium selector and set the background-color property to black.
 ### ✅ Step 28
 ### ✅ Step 29
 ### ✅ Step 30
