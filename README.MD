@@ -93,3 +93,6 @@ Create a new .calories-info selector and give it a display property set to flex.
 Create a new .left-container p selector setting the top and bottom margin to -5px, and the left and right margin to -2px. Also set the font-size to 2em and font-weight to 700.
 ### ✅ Step 36
 Create a .calories-info span selector, set its font-size to 2.4em and font-weight to 700.
+### ✅ Step 37
+Typography is often more art than science. You may have to tweak things like alignment until it looks correct.
+Give your .calories-info span selector a margin set to -7px -2px. This will shift your 230 text into place.
