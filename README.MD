@@ -83,3 +83,5 @@ Within your .calories-info element, create a div element. Give that div element 
 ### ✅ Step 31
 The rem unit stands for root em, and is relative to the font size of the html element.
 Create a .small-text selector and set the font-size to 0.85rem, which would calculate to roughly 13.6px (remember that you set your html to have a font-size of 16px).
+### ✅ Step 32
+Create a .calories-info h2 selector and remove all margins.
