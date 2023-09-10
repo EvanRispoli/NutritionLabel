@@ -46,9 +46,12 @@ If you inspect your .label element with your browser's developer tools, you may 
 
 To solve this, reset the box model by creating a * selector and giving it a box-sizing property of border-box.
 
-### ✅ Step 12
+### ✅ Step 12  
+Remember that the use of h1, h2, and similar tags determine the semantic structure of your HTML. However, you can adjust the CSS of these elements to control the visual flow and hierarchy.
+Create an h1 rule and set the font-weight property to 800. This will make your h1 text bolder.
 
-### ✅ Step 13
+### ✅ Step 13  
+Give your h1 selector a text-align property of center.
 
 ### ✅ Step 14
 
