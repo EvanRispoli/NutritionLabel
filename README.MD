@@ -8,64 +8,45 @@ In this course, you'll use typography to build a nutrition label webpage. You'll
 ### ✅ Step 1
 We've provided a basic HTML boilerplate for you.
 Create an h1 element within your body element and give it the text Nutrition Facts.
-
 ### ✅ Step 2
 Below your h1 element, add a p element with the text 8 servings per container.
-
 ### ✅ Step 3
 Add a second p element with the text Serving size 2/3 cup (55g).
-
 ### ✅ Step 4
 Within your head element, add a link element with the rel attribute set to stylesheet and the href attribute set to https://fonts.googleapis.com/css?family=Open+Sans:400,700,800.
 This will import the Open Sans font family, with the font weight values 400, 700, and 800.
 Also add a link element to link your styles.css file.
-
 ### ✅ Step 5
 Create a body selector and give it a font-family set to Open Sans with a fallback of sans-serif.
 Remember that fonts with spaces in the name must be wrapped in quotes for CSS.
-
 ### ✅ Step 6
 The font is a bit small. Create an html selector and set the font to have a size of 16px.
-
 ### ✅ Step 7
 Wrap your h1 and p elements in a div element. Give that div a class attribute set to label.
-
 ### ✅ Step 8
 Borders can be used to group and prioritize content.
 Create a .label selector and give it a border set to 2px solid black.
-
 ### ✅ Step 9
 Good use of white space can bring focus to the important elements of your page, and help guide your user's eyes through your text.
 Give your .label selector a width property set to 270px.
-
 ### ✅ Step 10
 Give your .label selector a margin property set to 20px auto, and a padding property set to 0 7px.  
-
 ### ✅ Step 11
 If you inspect your .label element with your browser's developer tools, you may notice that it's actually 288 pixels wide instead of 270. This is because, by default, the browser includes the border and padding when determining an element's size.
-
 To solve this, reset the box model by creating a * selector and giving it a box-sizing property of border-box.
-
 ### ✅ Step 12
 Remember that the use of h1, h2, and similar tags determine the semantic structure of your HTML. However, you can adjust the CSS of these elements to control the visual flow and hierarchy.
 Create an h1 rule and set the font-weight property to 800. This will make your h1 text bolder.
-
 ### ✅ Step 13
 Give your h1 selector a text-align property of center.
 
 ### ✅ Step 14
 Fine-tune the placement of your h1 by giving it a top and bottom margin of -4px and a left and right margin of 0.
-
 ### ✅ Step 15
-
+Create a p selector and remove all margins.
 ### ✅ Step 16
-
 ### ✅ Step 17
-
 ### ✅ Step 18
-
 ### ✅ Step 19
-
 ### ✅ Step 20
-
 ### ✅ Step 21
