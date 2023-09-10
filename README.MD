@@ -91,3 +91,5 @@ Below your .small-text element, create a new p element with the text Calories. A
 Create a new .calories-info selector and give it a display property set to flex. Also give it a justify-content property set to space-between and align-items property set to flex-end.
 ### ✅ Step 35
 Create a new .left-container p selector setting the top and bottom margin to -5px, and the left and right margin to -2px. Also set the font-size to 2em and font-weight to 700.
+### ✅ Step 36
+Create a .calories-info span selector, set its font-size to 2.4em and font-weight to 700.
