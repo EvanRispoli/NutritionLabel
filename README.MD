@@ -48,6 +48,7 @@ Create a p selector and remove all margins.
 Lines can help separate and group important content, especially when space is limited.
 Create a div element below your h1 element, and give it a class attribute set to divider.
 ### ✅ Step 17
+Create a selector for your new .divider and set the border-bottom property to 1px solid #888989. Also give it a top and bottom margin of 2px. It should not have any left or right margin.
 ### ✅ Step 18
 ### ✅ Step 19
 ### ✅ Step 20
