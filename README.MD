@@ -134,8 +134,36 @@ Below your last p element, create another p element with the text Sodium 160mg 7
 ### ✅ Step 55
 Add another p element with the text Total Carbohydrate 37g 13%. Like before, use span elements to make the text Total Carbohydrate and 13% bold. Also add an additional span element to wrap the Total Carbohydrate 37g text in a span element so to have it aligned to the left, and 13% to the right.
 ### ✅ Step 56
+Below your last p element, add another p element with the text Dietary Fiber 4g. Give the p element the class necessary to indent it and remove the dividing border. Then create a divider below that p element.
 ### ✅ Step 57
+Create another p element after your last .divider, and give it the text Total Sugars 12g. Assign that p element the class values necessary to indent it and remove the bottom border. Then create another .divider below your new p element.
 ### ✅ Step 58
+Step 58
+The advantage to creating these dividers is that you can apply specific classes to style them individually. Add double-indent to the class for your last .divider.
 ### ✅ Step 59
+Create a .double-indent selector and give it a left margin of 2em.
 ### ✅ Step 60
+Below your .double-indent element, add a new p element with the text Includes 10g Added Sugars 20%. Your new p element should also be double indented, and have no bottom border. Use a span to make the 20% bold and right aligned.
+Then create another divider after that p element.
+### ✅ Step 61
+After your last divider, create another p element with the text Protein 3g. Use the necessary classes to remove the bottom border, and a span to make the Protein bold.
+Following this element, create a large divider.
+### ✅ Step 62
+Create another p element below your large divider. Give the p element the text Vitamin D 2mcg 10%.
+The p element contains only text, you can wrap the percentage in a span element so that it is considered a separate entity from the rest of the text, and it's moved to the right.
+### ✅ Step 63
+Create another p element, give it the text Calcium 260mg 20%. Align 20% to the right. Below that, create a p element with the text Iron 8mg 45%, aligning the 45% to the right.
+### ✅ Step 64
+Create the final p element for your .daily-value section. Give it the text Potassium 235mg 6%. Align the 6% text to the right, and remove the bottom border of the p element.
+### ✅ Step 65
+Step 65
+Add a medium divider after your .daily-value element. Below that new divider, create a p element with the class attribute set to note.
+Give the p element the following text:
+_* The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. 2,000 calories a day is used for general nutrition advice._
+### ✅ Step 66
+Create a .note selector, and set the size of the font to 0.6rem. Also set the top and bottom margins to 5px, removing the left and right margins.
+### ✅ Step 67
+Give the .note selector a left and right padding of 8px, removing the top and bottom padding. Also set the text-indent property to -8px.
+With these last changes, your nutrition label is complete!
+
 
